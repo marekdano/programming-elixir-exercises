@@ -17,4 +17,4 @@ IO.puts rem_num.(16)
 
 # OR
 
-Enum.each(10..16, fn(x) -> IO.puts remm.(x) end)
+Enum.each(10..16, fn(x) -> IO.puts rem_num.(x) end)
